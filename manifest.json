@@ -1,0 +1,23 @@
+{
+    "name": "Kedar Sukerkar Portfolio",
+    "short_name": "Kedar Sukerkar Portfolio",
+    "start_url": ".",
+    "display": "minimal-ui",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Portfolio website for Kedar Sukerkar Portfolio. This portfolio chowcases his education, skills & expertise, experience, acheivements and hobbies.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/logo-ked27-2.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/logo-ked27-2.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
