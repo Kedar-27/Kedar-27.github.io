@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "82b3d8b1acf9b7dac3b907015d82d838",
-"/": "82b3d8b1acf9b7dac3b907015d82d838",
+const RESOURCES = {"index.html": "9c0a3720b2ad5b0a8133233b8d682eab",
+"/": "9c0a3720b2ad5b0a8133233b8d682eab",
 "assets/assets/fonts/visuelt/VisueltPro-Light.ttf": "2a1df2ff00c2611bf1b7fdeeaeebfa59",
 "assets/assets/fonts/visuelt/VisueltPro-Medium.ttf": "cf4dbc20776a2b309fe30a9bbfe7de0a",
 "assets/assets/fonts/visuelt/VisueltPro-Thin.ttf": "82d7b5b67c24f00acb08f2dccf1fd03b",
@@ -61,7 +61,7 @@ const RESOURCES = {"index.html": "82b3d8b1acf9b7dac3b907015d82d838",
 "canvaskit/skwasm.wasm": "6711032e17bf49924b2b001cef0d3ea3",
 "canvaskit/chromium/canvaskit.wasm": "fc18c3010856029414b70cae1afc5cd9",
 "canvaskit/chromium/canvaskit.js": "8c8392ce4a4364cbb240aa09b5652e05",
-"main.dart.js": "06a12f7cccf2eb8e136d61dd8a6e041b",
+"main.dart.js": "ce05ee8465916cd6bf468d13d030a309",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "icons/logo-aerium-2.png": "58b131c1e81194452cb702693c040a92",
 "icons/logo-aerium-1.png": "c9c1749b275f61ebc563d6596ccf2569"};
