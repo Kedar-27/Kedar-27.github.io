@@ -23973,7 +23973,8 @@ a_v:function a_v(a,b){this.a=a
 this.b=b},
 r7:function r7(a){this.a=a},
 a_E:function a_E(a){this.a=a},
-Is:function Is(a){this.a=a},
+Is:function Is(a,b){this.a=a
+this.b=b},
 aKm(a,b){var s=new Uint8Array(0),r=$.aCh().b
 if(!r.test(a))A.a3(A.dX(a,"method","Not a valid method"))
 r=t.N
@@ -79687,7 +79688,7 @@ n.II(m,s,q,!1,!0,p,r)
 this.b.dn(0,n)},
 $S:170}
 A.a_v.prototype={
-$1(a){this.a.mk(new A.Is("XMLHttpRequest error."),A.asT())},
+$1(a){this.a.mk(new A.Is("XMLHttpRequest error.",this.b.b),A.asT())},
 $S:170}
 A.r7.prototype={
 U0(){var s=new A.ar($.ak,t.aP),r=new A.bn(s,t.gI),q=new A.QF(new A.a_E(r),new Uint8Array(1024))
@@ -79697,7 +79698,8 @@ A.a_E.prototype={
 $1(a){return this.a.dn(0,new Uint8Array(A.fB(a)))},
 $S:469}
 A.Is.prototype={
-k(a){return this.a},
+k(a){var s=this.b.k(0)
+return"ClientException: "+this.a+", uri="+s},
 $icq:1}
 A.aaH.prototype={
 gF5(a){var s,r,q=this
@@ -81266,7 +81268,7 @@ qD(a){return this.aaI(a)},
 aaI(a){var s=0,r=A.P(t.H)
 var $async$qD=A.Q(function(b,c){if(b===1)return A.M(c,r)
 while(true)switch(s){case 0:s=2
-return A.T($.auA().iF("nav_bar_tab_clicked",A.aq(["title",a],t.N,t.z)),$async$qD)
+return A.T($.auA().iF("nav_bar_tab_clicked",A.aq(["tab_title",a],t.N,t.z)),$async$qD)
 case 2:return A.N(null,r)}})
 return A.O($async$qD,r)},
 w1(){var s=0,r=A.P(t.H)
