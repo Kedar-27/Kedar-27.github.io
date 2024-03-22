@@ -1,0 +1,63 @@
+{
+  "socialData": [
+    {
+      "name": "GitHub",
+      "iconData": "FontAwesomeIcons.github",
+      "url": "https://github.com/kedar-27"
+    },
+    {
+      "name": "LinkedIn",
+      "iconData": "FontAwesomeIcons.linkedin",
+      "url": "https://www.linkedin.com/in/kedarsukerkar"
+    },
+    {
+      "name": "Twitter",
+      "iconData": "FontAwesomeIcons.twitter",
+      "url": "https://twitter.com/kedarjsukerkar"
+    },
+    {
+      "name": "StackOverflow",
+      "iconData": "FontAwesomeIcons.stackOverflow",
+      "url": "https://stackoverflow.com/users/10579134/kedar-sukerkar"
+    },
+    {
+      "name": "Telegram",
+      "iconData": "FontAwesomeIcons.telegram",
+      "url": "https://t.me/Kedar27"
+    }
+  ],
+  "socialData1": [
+    {
+      "name": "GitHub",
+      "iconData": "FontAwesomeIcons.github",
+      "url": "https://github.com/kedar-27"
+    },
+    {
+      "name": "LinkedIn",
+      "iconData": "FontAwesomeIcons.linkedin",
+      "url": "https://www.linkedin.com/in/kedarsukerkar"
+    },
+    {
+      "name": "Twitter",
+      "iconData": "FontAwesomeIcons.twitter",
+      "url": "https://twitter.com/kedarjsukerkar"
+    }
+  ],
+  "socialData2": [
+    {
+      "name": "LinkedIn",
+      "iconData": "FontAwesomeIcons.linkedin",
+      "url": "https://www.linkedin.com/in/kedarsukerkar"
+    },
+    {
+      "name": "Twitter",
+      "iconData": "FontAwesomeIcons.twitter",
+      "url": "https://twitter.com/kedarjsukerkar"
+    },
+    {
+      "name": "Telegram",
+      "iconData": "FontAwesomeIcons.telegram",
+      "url": "https://t.me/Kedar27"
+    }
+  ]
+}

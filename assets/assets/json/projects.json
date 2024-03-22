@@ -1,0 +1,150 @@
+{
+    "projects": [
+        {
+            "title": "Paytm",
+            "primaryColor": "#00B8F5",
+            "subtitle": "Paytm, India’s #1 Payment App, is trusted by more than 45 Crore Indians. Paytm is one stop solution for all your payment needs.",
+            "category": "Finance",
+            "platform": "Android / iOS / Web",
+            "image": "assets/images/projects/paytm/paytm_logo.webp",
+            "coverUrl": "assets/images/projects/paytm/paytm_cover.jpeg",
+            "portfolioDescription": "Paytm is one stop solution for all your payment needs:\nSend money to your friends and family using mobile number via Paytm UPI. Including those who are not on Paytm.\nScan any QR code and make payments at grocery stores, petrol pumps, restaurants etc.\n Recharge your mobile and pay your utility bills (electricity, gas, water, broadband etc.) easily.",
+            "navTitleColor": "#00B8F5",
+            "navSelectedTitleColor": "#00B8F5",
+            "appLogoColor": "#00B8F5",
+            "projectAssets": [
+                "assets/images/projects/paytm/paytm_banner.png",
+                "assets/images/projects/paytm/paytm_design.webp"
+            ],
+            "isRecent": true,
+            "isPublic": false,
+            "isOnAppStore": true,
+            "technologyUsed": "Swift",
+            "appStoreUrl": "https://apps.apple.com/in/app/id473941634"
+        },
+        {
+            "title": "Paytm Payments Bank",
+            "primaryColor": "#012A72",
+            "subtitle": "Paytm Payments Bank: India’s Most Sincere Bank* is the epitome of trust in digital banking, empowering Indians embracing the digital revolution.",
+            "category": "Banking",
+            "platform": "Android / iOS",
+            "image": "assets/images/projects/paytm/ppbl_logo.png",
+            "coverUrl": "assets/images/projects/paytm/ppbl_cover.png",
+            "portfolioDescription": "Paytm Payments Bank : India’s Most Sincere Bank* is the epitome of trust in digital banking, empowering Indians embracing the digital revolution:\n a. Paytm Payments Bank is trusted by over 30 Crore Indians who live the digital life\nb. Enjoy a seamless and digital account opening process with no minimum balance requirements\nc. Schedule automatic payments for your EMI’s and live a reminder free life*d. Simply slide to Create automatic fixed deposits on excess balance at the end of day\ne. Enjoy attractive offers on the free virtual Visa debit card * Paytm Payments Bank Ltd. (PPBL) won the Shrestha Puraskar at Digital Payments Ustav by the Digidhan Mission, Ministry of Electronics and Information Technology (MeitY) in February 2023.",
+            "navTitleColor": "#012A72",
+            "navSelectedTitleColor": "#012A72",
+            "appLogoColor": "#012A72",
+            "projectAssets": [],
+            "isRecent": true,
+            "isPublic": false,
+            "isOnAppStore": true,
+            "technologyUsed": "Swift",
+            "appStoreUrl": "https://apps.apple.com/in/app/id6472183280"
+        },
+        {
+            "title": "Koo",
+            "primaryColor": "#383838",
+            "subtitle": "Koo is the 2nd largest multi-lingual microblogging platform available to the world.",
+            "category": "MicroBlogging",
+            "platform": "Android / iOS / Web",
+            "image": "assets/images/projects/koo/koo_cover.jpeg",
+            "coverUrl": "assets/images/projects/koo/koo_cover.jpeg",
+            "portfolioDescription": "Koo is the 2nd largest multi-lingual microblogging platform available to the world. An innovator of language-based micro-blogging.",
+            "navTitleColor": "#383838",
+            "navSelectedTitleColor": "#383838",
+            "appLogoColor": "#383838",
+            "projectAssets": [
+                "assets/images/projects/koo/koo1.png"
+            ],
+            "isRecent": true,
+            "isPublic": false,
+            "isOnAppStore": true,
+            "technologyUsed": "Swift",
+            "appStoreUrl": "https://apps.apple.com/us/app/id1515425674"
+        },
+        {
+            "title": "MarketWolf",
+            "primaryColor": "#5a4ae4",
+            "subtitle": "MarketWolf is a trading platform that makes your trading experience easier and faster.",
+            "category": "Fintech",
+            "platform": "Android / iOS / Web",
+            "image": "assets/images/projects/marketwolf/marketWolf_cover.jpg",
+            "coverUrl": "assets/images/projects/marketwolf/marketWolf_cover.jpg",
+            "portfolioDescription": "MarketWolf is an immersive and engaging trading platform that provides you with a unique opportunity towards financial profitability with an exciting, easy and fast trading experience.",
+            "navTitleColor": "#5a4ae4",
+            "navSelectedTitleColor": "#5a4ae4",
+            "appLogoColor": "#5a4ae4",
+            "projectAssets": [
+                "assets/images/projects/marketwolf/marketWolf1.png",
+                "assets/images/projects/marketwolf/marketWolf2.png"
+            ],
+            "isRecent": true,
+            "isPublic": false,
+            "isOnAppStore": true,
+            "technologyUsed": "Swift",
+            "appStoreUrl": "https://apps.apple.com/in/app/fno-play/id1533626293"
+        },
+        {
+            "title": "V.A.M.S",
+            "primaryColor": "#f58357",
+            "subtitle": "MarketWolf is a trading platform that makes your trading experience easier and faster.",
+            "category": "Utilities",
+            "platform": "Android / iOS / Web",
+            "image": "assets/images/projects/vams/vams_cover.png",
+            "coverUrl": "assets/images/projects/vams/vams_cover.png",
+            "portfolioDescription": "Help your visitors have a safe, secure and no-touch experience, while visiting your business premises. No filling in forms on tablets. No queues. No over-crowding. No entering with a running fever. No entering without wearing a mask. Follow all social distancing norms, while focusing on your business to run smoothly, without any hassles. Let SafeGuard help you with appointments and walk-in visitor requests.",
+            "navTitleColor": "#f58357",
+            "navSelectedTitleColor": "#f58357",
+            "appLogoColor": "#f58357",
+            "projectAssets": [
+                "assets/images/projects/vams/vams1.png"
+            ],
+            "isPublic": false,
+            "isOnAppStore": true,
+            "technologyUsed": "Swift",
+            "appStoreUrl": "https://apps.apple.com/us/app/vams-host/id1536908111"
+        },
+        {
+            "title": "Unsyned",
+            "primaryColor": "#000000",
+            "subtitle": "Unsyned is an application that hosts free music contests for up-and-coming artists. Submit your music and compete for a chance to win prizes and gain exposure..",
+            "category": "Music",
+            "platform": "Android / iOS / Web",
+            "image": "assets/images/projects/unsyned/unsyned_cover.png",
+            "coverUrl": "assets/images/projects/unsyned/unsyned_cover.png",
+            "portfolioDescription": "With Unsyned, you can submit your songs to music contests to reach new listeners. Compete with other artists and win prizes for having one of the top upvoted songs in a contest.",
+            "navTitleColor":     "#000000",
+            "navSelectedTitleColor":  "#000000",
+            "appLogoColor":  "#000000",
+            "projectAssets": ["assets/images/projects/unsyned/unsyned1.png"],
+            "isRecent": false,
+            "isPublic": false,
+            "isOnAppStore": true,
+            "technologyUsed": "Swift",
+            "appStoreUrl": "https://apps.apple.com/us/app/unsyned/id1499820920"
+        },
+        {
+            "title": "Picostone",
+            "primaryColor": "#050E1F",
+            "subtitle": "The Picostone app lets you control multiple devices with one single tap. Left your home in a rush? Just tap “Goodbye” on the Picostone app.",
+            "category": "Lifestyle",
+            "platform": "Android / iOS",
+            "image": "assets/images/projects/picostone/picostone_image.jpeg",
+            "coverUrl": "assets/images/projects/picostone/picostone_cover.png",
+            "portfolioDescription": "Wondering what theater dimming, scheduling scenes, centralized and decentralized automation is? We’ve got you covered. Picostone is the fastest growing Home Automation brand in India with a keen eye for perfection in products and quality of the service offered. We help people live in a comfortable, sustainable and robust tech-enabled house with easy and practical automations. Our cutting edge tech products adapt to your needs, gives you control and convenience at your fingertips. We are part of “Make in India”  and we take pride in that. Started off as a dream in 2016, now in 3600+ homes - making our users #LiveEffortlessly.",
+            "navTitleColor": "#050E1F",
+            "navSelectedTitleColor": "#050E1F",
+            "appLogoColor": "#050E1F",
+            "projectAssets": [
+                "assets/images/projects/picostone/picostone1.jpg",
+                "assets/images/projects/picostone/picostone2.jpg",
+                "assets/images/projects/picostone/picostone3.jpg"
+            ],
+            "isRecent": false,
+            "isPublic": false,
+            "isOnAppStore": true,
+            "technologyUsed": "Swift",
+            "appStoreUrl": "https://itunes.apple.com/us/app/picostone-butler/id1150821814?mt=8"
+        }
+    ]
+}

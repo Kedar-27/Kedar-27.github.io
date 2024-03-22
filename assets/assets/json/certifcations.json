@@ -1,0 +1,39 @@
+{
+    "certifications": [
+        {
+            "title": "Msc In Information Technology",
+            "url": "https://www.cmu.edu/hub/registrar/graduation/diplomas/electronic/validation/index.html",
+            "image": "ImagePath.CMU_MASTERS_CERT",
+            "imageSize": 0.325,
+            "awardedBy": "Carnegie Mellon University"
+        },
+        {
+            "title": "Associate Android Developer",
+            "url": "https://www.credential.net/b296da88-d6be-4bb5-9756-b13efea3a421",
+            "image": "ImagePath.ASSOCIATE_ANDROID_DEV",
+            "imageSize": 0.325,
+            "awardedBy": "Google"
+        },
+        {
+            "title": "Cloud Developer",
+            "url": "https://confirm.udacity.com/PJU23DCP",
+            "image": "ImagePath.CLOUD_DEVELOPER_CERT",
+            "imageSize": 0.325,
+            "awardedBy": "Udacity"
+        },
+        {
+            "title": "Data Science",
+            "url": "https://graduation.udacity.com/confirm/7CGEJAFR",
+            "image": "ImagePath.DATA_SCIENCE_CERT",
+            "imageSize": 0.325,
+            "awardedBy": "Udacity"
+        },
+        {
+            "title": "Android Basics",
+            "url": "https://graduation.udacity.com/confirm/9VTDRN5K",
+            "image": "ImagePath.ANDROID_BASICS_CERT",
+            "imageSize": 0.325,
+            "awardedBy": "Udacity"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "experience": [
+        {
+            "company": "Paytm Payments Bank Limited",
+            "companyUrl": "https://www.paytmbank.com/",
+            "location": "Noida, Uttar Pradesh, India",
+            "duration": "August 2023 - Present",
+            "position": "Senior iOS Developer",
+            "roles": [
+                "Engineered and developed Payment application with over 300 million+ users.",
+                "Optimised UPI Onboarding process for new users.",
+                "Improved code-quality using unit testing."
+            ]
+        },
+        {
+            "company": "FnO",
+            "companyUrl": "https://fno.co/",
+            "location": "Mumbai, Maharashtra, India",
+            "duration": "July 2021 - March 2023",
+            "position": "Senior iOS Developer",
+            "roles": [
+                "Engineered and developed Stocks trading application with over 10 million+ users.",
+                "Developed a customized and efficient solution for Charts.",
+                "Implemented new modules in SwiftUI, Combine Framework and improved Multithreading performance.",
+                "Improved code-quality using unit testing.",
+                "Managed Backend interaction with Rest Api and Websockets."
+            ]
+        },
+        {
+            "company": "e-Stone Information Technology",
+            "companyUrl": "https://e-stonetech.com/",
+            "location": "Mumbai, Maharashtra, India",
+            "duration": "Decemeber 2019 - June 2021",
+            "position": "Senior iOS Developer",
+            "roles": [
+                "Performed in a Lead developer role on an E-Commerce Aggregator and Security and Community Management application.",
+                "Managed security check using Apple’s DeviceCheck Api.",
+                "Improved user interaction with Rich Push Notifications, Share Extension and DeepLinking.",
+                "Successfully deployed B2B application with over 100+ companies and 8+ countries.",
+                "Worked on Agile Development using JIRA.",
+                "Created custom solution to deploy iOS builds via sites created by jenkins jobs for adhoc signed builds and app store release."
+            ]
+        },
+        {
+            "company": "Inspeero Technologies",
+            "companyUrl": "https://www.inspeero.com/",
+            "location": "Mumbai, Maharashtra, India",
+            "duration": "June 2018 - November 2019",
+            "position": "iOS Developer",
+            "roles": [
+                "Created 15+ applications across various domains.",
+                "Worked on various libraries such as AVFoundation, CoreData, Cocoapods, CoreAnimation, XMPP, Magento, Stripe, Selenium",
+                "Managed internal library with custom helpers and wrappers for reusable components using private cocoapods.",
+                "Developed a custom solution for DRM using cryptography techniques."
+            ]
+        }
+    ]
+}

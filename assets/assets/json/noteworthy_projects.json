@@ -1,0 +1,60 @@
+{
+    "noteworthyProjects": [
+      {
+        "projectName": "Cryptosa",
+        "isPublic": false,
+        "isOnPlayStore": false,
+        "isOnAppStore": true,
+        "isWeb": false,
+        "technologyUsed": "Android / iOS",
+        "projectDescription": "Cryptosa is a trading platform that makes your trading experience easier and faster.",
+        "appStoreUrl": "https://appadvice.com/app/cryptosa/1465892984",
+        "isLive": true
+      },
+      {
+        "projectName": "MaculaScan",
+        "isPublic": false,
+        "isOnPlayStore": false,
+        "isOnAppStore": false,
+        "isWeb": false,
+        "technologyUsed": "iOS",
+        "projectDescription": "MaculaScan™ is a digital indicator that can scan the macula visual field and provide information on early symptoms of macular disorder.",
+        "appStoreUrl": "https://appadvice.com/app/maculascan/1470077508",
+        "isLive": true
+      },
+      {
+        "projectName": "KSParallaxScrolling",
+        "isPublic": true,
+        "isOnPlayStore": false,
+        "isOnAppStore": false,
+        "isWeb": false,
+        "technologyUsed": "Swift",
+        "projectDescription": "A demo application to achieve the effect of parallax scrolling using traditional UIScrollView without any dependencies. This aims to deal with the common problem of nested scrollview(UIScrollView with UITableView/UICollectionView).",
+        "gitHubUrl": "https://github.com/Kedar-27/KSParallaxScrolling",
+        "isLive": false
+      },
+      {
+        "projectName": "KSDeviceAuthentication",
+        "isPublic": true,
+        "isOnPlayStore": false,
+        "isOnAppStore": false,
+        "isWeb": false,
+        "technologyUsed": "Swift",
+        "projectDescription": "KSDeviceAuthentication provides wrapper around LocalAuthentication.framework for authentication device using touchId , faceId and passcode.",
+        "gitHubUrl": "https://github.com/Kedar-27/KSDeviceAuthentication",
+        "isLive": false
+      },
+      {
+        "projectName": "DraggableMusicPlayer",
+        "isPublic": true,
+        "isOnPlayStore": false,
+        "isOnAppStore": false,
+        "isWeb": false,
+        "technologyUsed": "Swift",
+        "projectDescription": "A demo iOS Application for dragging transition on viewController and Music Player library.",
+        "gitHubUrl": "https://github.com/Kedar-27/DraggableMusicPlayer",
+        "isLive": false
+      }
+    ]
+  }
+  
