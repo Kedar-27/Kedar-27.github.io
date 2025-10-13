@@ -7,8 +7,8 @@ const RESOURCES = {"flutter.js": "888483df48293866f9f41d3d9274a779",
 "icons/logo-aerium-1.png": "c9c1749b275f61ebc563d6596ccf2569",
 "icons/logo-aerium-2.png": "58b131c1e81194452cb702693c040a92",
 "manifest.json": "2505c9e0d3d8a391a4d18baf58cc975f",
-"index.html": "9334baeb03c9ed1440525ec8c0a72966",
-"/": "9334baeb03c9ed1440525ec8c0a72966",
+"index.html": "39c56efae1e54578e3dc3863c677fbba",
+"/": "39c56efae1e54578e3dc3863c677fbba",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin.json": "271fd6634aa69b114ed6c9da93bd44ea",
 "assets/assets/images/dev_praying.png": "803d307314af25b9d71bcdd9c9dcd5a7",
@@ -81,9 +81,9 @@ const RESOURCES = {"flutter.js": "888483df48293866f9f41d3d9274a779",
 "canvaskit/skwasm.wasm": "264db41426307cfc7fa44b95a7772109",
 "canvaskit/canvaskit.js.symbols": "58832fbed59e00d2190aa295c4d70360",
 "canvaskit/skwasm.js.symbols": "0088242d10d7e7d6d2649d1fe1bda7c1",
-"flutter_bootstrap.js": "1567101f27c453df300bdcd4c5cc269c",
+"flutter_bootstrap.js": "4d28e1368f21e14e470e590b7240e6e3",
 "version.json": "8fe11124ea74a622a44a5e557961d86e",
-"main.dart.js": "6d2ef6239a30342b7a12cf7b487e9318"};
+"main.dart.js": "f9e88679f95671f1dfcfdc92aa3fe946"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
