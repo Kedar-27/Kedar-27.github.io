@@ -1,6 +1,6 @@
 // Generated file. Do not edit.
 
-const serviceWorkerVersion = '"360466357"';
+const serviceWorkerVersion = '"3823771379"';
 
 const scriptTags = document.getElementsByTagName("script");
 const scriptTag = scriptTags[scriptTags.length - 1];
