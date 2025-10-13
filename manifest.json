@@ -1,23 +1,75 @@
 {
-    "name": "Kedar Sukerkar Portfolio",
-    "short_name": "Kedar Sukerkar Portfolio",
-    "start_url": ".",
-    "display": "minimal-ui",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Portfolio website for Kedar Sukerkar Portfolio. This portfolio chowcases his education, skills & expertise, experience, acheivements and hobbies.",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
-    "icons": [
-        {
-            "src": "icons/logo-ked27-2.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/logo-ked27-2.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ]
+  "name": "Kedar Sukerkar Portfolio",
+  "short_name": "Kedar Portfolio",
+  "description": "Portfolio website showcasing education, skills, experience, achievements and projects.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "orientation": "any",
+  "categories": ["business", "portfolio"],
+  "icons": [
+    {
+      "src": "icons/logo-ked27-2.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/logo-ked27-2.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/logo-ked27-2.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/logo-ked27-2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/logo-ked27-2.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/logo-ked27-2.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/logo-ked27-2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "View Projects",
+      "short_name": "Projects",
+      "url": "/works",
+      "description": "Browse my portfolio projects"
+    },
+    {
+      "name": "Contact Me",
+      "short_name": "Contact",
+      "url": "/contact",
+      "description": "Get in touch"
+    },
+    {
+      "name": "Experience",
+      "short_name": "Experience",
+      "url": "/experience",
+      "description": "View my work experience"
+    }
+  ]
 }

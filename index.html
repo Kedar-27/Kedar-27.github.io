@@ -3,9 +3,27 @@
 <head>
   <base href="/">
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  
   <meta name="description" 
-  content="Portfolio website for Kedar Sukerkar Portfolio. This portfolio chowcases his education, skills & expertise, experience, acheivements and hobbies.">
+    content="Portfolio website for Kedar Sukerkar. This portfolio showcases his education, skills & expertise, experience, achievements and projects.">
+  <meta name="keywords" content="Kedar Sukerkar, iOS Developer, Flutter Developer, Portfolio, Mobile Development, Swift, SwiftUI">
+  <meta name="author" content="Kedar Sukerkar">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://kedar-27.github.io/">
+  <meta property="og:title" content="Kedar Sukerkar - iOS Developer Portfolio">
+  <meta property="og:description" content="Portfolio showcasing iOS development projects and expertise">
+  <meta property="og:image" content="icons/logo-ked27-2.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://kedar-27.github.io/">
+  <meta property="twitter:title" content="Kedar Sukerkar - iOS Developer">
+  <meta property="twitter:description" content="Portfolio showcasing iOS development projects">
+  <meta property="twitter:image" content="icons/logo-ked27-2.png">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -16,30 +34,10 @@
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/png" href="icons/logo-ked27-2.png"/>
 
-  <title>kedar27</title>
+  <title>Kedar Sukerkar - iOS Developer Portfolio</title>
   <link rel="manifest" href="manifest.json">
-  <script type="application/javascript">
-      function openLink(url, target, isAsync=false) {
-        var is_safari = /^(?!.*chrome).*safari/i.test(navigator.userAgent.toLowerCase());
-        if (is_safari && isAsync) {
-          window.location.href = url;
-        } else {
-          window.open(url, target);
-        }
-      }
-    </script>
 </head>
-<body id="app-container">
-  <!-- This script installs service_worker.js to provide PWA functionality to
-       application. For more information, see:
-       https://developers.google.com/web/fundamentals/primers/service-workers -->
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2930634337');
-      });
-    }
-  </script>
-  <script src="main.dart.js" type="application/javascript"></script>
+<body>
+  <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
