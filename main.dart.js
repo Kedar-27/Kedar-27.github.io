@@ -22015,7 +22015,7 @@ var $async$UA=A.F(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:if($.aj==null)A.apE()
 $.aj.toString
 s=2
-return A.M($.UU().qr(".env"),$async$UA)
+return A.M($.UU().qr("env"),$async$UA)
 case 2:s=3
 return A.M(A.Zs(A.aCm()),$async$UA)
 case 3:A.aKi()
