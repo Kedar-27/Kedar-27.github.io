@@ -1,63 +1,54 @@
 {
-  "socialData": [
+  "socials": [
     {
+      "id": "github",
       "name": "GitHub",
-      "iconData": "FontAwesomeIcons.github",
-      "url": "https://github.com/kedar-27"
+      "icon": "github",
+      "url": "https://github.com/kedar-27",
+      "isVisible": true,
+      "showInFooter": true,
+      "showInHeader": true,
+      "showInAbout": false
     },
     {
+      "id": "linkedin",
       "name": "LinkedIn",
-      "iconData": "FontAwesomeIcons.linkedin",
-      "url": "https://www.linkedin.com/in/kedarsukerkar"
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/kedarsukerkar",
+      "isVisible": true,
+      "showInFooter": true,
+      "showInHeader": true,
+      "showInAbout": true
     },
     {
-      "name": "Twitter",
-      "iconData": "FontAwesomeIcons.twitter",
-      "url": "https://twitter.com/kedarjsukerkar"
+      "id": "x",
+      "name": "X",
+      "icon": "x",
+      "url": "https://x.com/kedarjsukerkar",
+      "isVisible": true,
+      "showInFooter": true,
+      "showInHeader": true,
+      "showInAbout": true
     },
     {
+      "id": "stackoverflow",
       "name": "StackOverflow",
-      "iconData": "FontAwesomeIcons.stackOverflow",
-      "url": "https://stackoverflow.com/users/10579134/kedar-sukerkar"
+      "icon": "stackoverflow",
+      "url": "https://stackoverflow.com/users/10579134/kedar-sukerkar",
+      "isVisible": true,
+      "showInFooter": true,
+      "showInHeader": false,
+      "showInAbout": false
     },
     {
+      "id": "telegram",
       "name": "Telegram",
-      "iconData": "FontAwesomeIcons.telegram",
-      "url": "https://t.me/Kedar27"
-    }
-  ],
-  "socialData1": [
-    {
-      "name": "GitHub",
-      "iconData": "FontAwesomeIcons.github",
-      "url": "https://github.com/kedar-27"
-    },
-    {
-      "name": "LinkedIn",
-      "iconData": "FontAwesomeIcons.linkedin",
-      "url": "https://www.linkedin.com/in/kedarsukerkar"
-    },
-    {
-      "name": "Twitter",
-      "iconData": "FontAwesomeIcons.twitter",
-      "url": "https://twitter.com/kedarjsukerkar"
-    }
-  ],
-  "socialData2": [
-    {
-      "name": "LinkedIn",
-      "iconData": "FontAwesomeIcons.linkedin",
-      "url": "https://www.linkedin.com/in/kedarsukerkar"
-    },
-    {
-      "name": "Twitter",
-      "iconData": "FontAwesomeIcons.twitter",
-      "url": "https://twitter.com/kedarjsukerkar"
-    },
-    {
-      "name": "Telegram",
-      "iconData": "FontAwesomeIcons.telegram",
-      "url": "https://t.me/Kedar27"
+      "icon": "telegram",
+      "url": "https://t.me/Kedar27",
+      "isVisible": true,
+      "showInFooter": true,
+      "showInHeader": false,
+      "showInAbout": true
     }
   ]
 }

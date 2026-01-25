@@ -3,37 +3,42 @@
         {
             "title": "Msc In Information Technology",
             "url": "https://www.cmu.edu/hub/registrar/graduation/diplomas/electronic/validation/index.html",
-            "image": "ImagePath.CMU_MASTERS_CERT",
+            "image": "assets/images/cmu_cert.png",
             "imageSize": 0.325,
-            "awardedBy": "Carnegie Mellon University"
+            "awardedBy": "Carnegie Mellon University",
+            "isVisible": true
         },
         {
             "title": "Associate Android Developer",
             "url": "https://www.credential.net/b296da88-d6be-4bb5-9756-b13efea3a421",
-            "image": "ImagePath.ASSOCIATE_ANDROID_DEV",
+            "image": "assets/images/associate_android_dev.png",
             "imageSize": 0.325,
-            "awardedBy": "Google"
+            "awardedBy": "Google",
+            "isVisible": true
         },
         {
             "title": "Cloud Developer",
             "url": "https://confirm.udacity.com/PJU23DCP",
-            "image": "ImagePath.CLOUD_DEVELOPER_CERT",
+            "image": "assets/images/cloud_developer_cert.png",
             "imageSize": 0.325,
-            "awardedBy": "Udacity"
+            "awardedBy": "Udacity",
+            "isVisible": true
         },
         {
             "title": "Data Science",
             "url": "https://graduation.udacity.com/confirm/7CGEJAFR",
-            "image": "ImagePath.DATA_SCIENCE_CERT",
+            "image": "assets/images/data_science_cert.png",
             "imageSize": 0.325,
-            "awardedBy": "Udacity"
+            "awardedBy": "Udacity",
+            "isVisible": true
         },
         {
             "title": "Android Basics",
             "url": "https://graduation.udacity.com/confirm/9VTDRN5K",
-            "image": "ImagePath.ANDROID_BASICS_CERT",
+            "image": "assets/images/android_basics_cert.png",
             "imageSize": 0.325,
-            "awardedBy": "Udacity"
+            "awardedBy": "Udacity",
+            "isVisible": true
         }
     ]
 }

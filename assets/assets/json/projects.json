@@ -3,7 +3,7 @@
         {
             "title": "Paytm",
             "primaryColor": "#00B8F5",
-            "subtitle": "Paytm, India’s #1 Payment App, is trusted by more than 45 Crore Indians. Paytm is one stop solution for all your payment needs.",
+            "subtitle": "Paytm, India's #1 Payment App, is trusted by more than 45 Crore Indians. Paytm is one stop solution for all your payment needs.",
             "category": "Finance",
             "platform": "Android / iOS / Web",
             "image": "assets/images/projects/paytm/paytm_logo.webp",
@@ -16,6 +16,7 @@
                 "assets/images/projects/paytm/paytm_banner.png",
                 "assets/images/projects/paytm/paytm_design.webp"
             ],
+            "isVisible": true,
             "isRecent": true,
             "isPublic": false,
             "isOnAppStore": true,
@@ -25,16 +26,17 @@
         {
             "title": "Paytm Payments Bank",
             "primaryColor": "#012A72",
-            "subtitle": "Paytm Payments Bank: India’s Most Sincere Bank* is the epitome of trust in digital banking, empowering Indians embracing the digital revolution.",
+            "subtitle": "Paytm Payments Bank: India's Most Sincere Bank* is the epitome of trust in digital banking, empowering Indians embracing the digital revolution.",
             "category": "Banking",
             "platform": "Android / iOS",
             "image": "assets/images/projects/paytm/ppbl_logo.png",
             "coverUrl": "assets/images/projects/paytm/ppbl_cover.png",
-            "portfolioDescription": "Paytm Payments Bank : India’s Most Sincere Bank* is the epitome of trust in digital banking, empowering Indians embracing the digital revolution:\n a. Paytm Payments Bank is trusted by over 30 Crore Indians who live the digital life\nb. Enjoy a seamless and digital account opening process with no minimum balance requirements\nc. Schedule automatic payments for your EMI’s and live a reminder free life*d. Simply slide to Create automatic fixed deposits on excess balance at the end of day\ne. Enjoy attractive offers on the free virtual Visa debit card * Paytm Payments Bank Ltd. (PPBL) won the Shrestha Puraskar at Digital Payments Ustav by the Digidhan Mission, Ministry of Electronics and Information Technology (MeitY) in February 2023.",
+            "portfolioDescription": "Paytm Payments Bank : India's Most Sincere Bank* is the epitome of trust in digital banking, empowering Indians embracing the digital revolution:\n a. Paytm Payments Bank is trusted by over 30 Crore Indians who live the digital life\nb. Enjoy a seamless and digital account opening process with no minimum balance requirements\nc. Schedule automatic payments for your EMI's and live a reminder free life*d. Simply slide to Create automatic fixed deposits on excess balance at the end of day\ne. Enjoy attractive offers on the free virtual Visa debit card * Paytm Payments Bank Ltd. (PPBL) won the Shrestha Puraskar at Digital Payments Ustav by the Digidhan Mission, Ministry of Electronics and Information Technology (MeitY) in February 2023.",
             "navTitleColor": "#012A72",
             "navSelectedTitleColor": "#012A72",
             "appLogoColor": "#012A72",
             "projectAssets": [],
+            "isVisible": true,
             "isRecent": true,
             "isPublic": false,
             "isOnAppStore": true,
@@ -56,6 +58,7 @@
             "projectAssets": [
                 "assets/images/projects/koo/koo1.png"
             ],
+            "isVisible": true,
             "isRecent": true,
             "isPublic": false,
             "isOnAppStore": true,
@@ -78,6 +81,7 @@
                 "assets/images/projects/marketwolf/marketWolf1.png",
                 "assets/images/projects/marketwolf/marketWolf2.png"
             ],
+            "isVisible": true,
             "isRecent": true,
             "isPublic": false,
             "isOnAppStore": true,
@@ -99,6 +103,8 @@
             "projectAssets": [
                 "assets/images/projects/vams/vams1.png"
             ],
+            "isVisible": true,
+            "isRecent": false,
             "isPublic": false,
             "isOnAppStore": true,
             "technologyUsed": "Swift",
@@ -113,10 +119,13 @@
             "image": "assets/images/projects/unsyned/unsyned_cover.png",
             "coverUrl": "assets/images/projects/unsyned/unsyned_cover.png",
             "portfolioDescription": "With Unsyned, you can submit your songs to music contests to reach new listeners. Compete with other artists and win prizes for having one of the top upvoted songs in a contest.",
-            "navTitleColor":     "#000000",
-            "navSelectedTitleColor":  "#000000",
-            "appLogoColor":  "#000000",
-            "projectAssets": ["assets/images/projects/unsyned/unsyned1.png"],
+            "navTitleColor": "#000000",
+            "navSelectedTitleColor": "#000000",
+            "appLogoColor": "#000000",
+            "projectAssets": [
+                "assets/images/projects/unsyned/unsyned1.png"
+            ],
+            "isVisible": true,
             "isRecent": false,
             "isPublic": false,
             "isOnAppStore": true,
@@ -126,12 +135,12 @@
         {
             "title": "Picostone",
             "primaryColor": "#050E1F",
-            "subtitle": "The Picostone app lets you control multiple devices with one single tap. Left your home in a rush? Just tap “Goodbye” on the Picostone app.",
+            "subtitle": "The Picostone app lets you control multiple devices with one single tap. Left your home in a rush? Just tap 'Goodbye' on the Picostone app.",
             "category": "Lifestyle",
             "platform": "Android / iOS",
             "image": "assets/images/projects/picostone/picostone_image.jpeg",
             "coverUrl": "assets/images/projects/picostone/picostone_cover.png",
-            "portfolioDescription": "Wondering what theater dimming, scheduling scenes, centralized and decentralized automation is? We’ve got you covered. Picostone is the fastest growing Home Automation brand in India with a keen eye for perfection in products and quality of the service offered. We help people live in a comfortable, sustainable and robust tech-enabled house with easy and practical automations. Our cutting edge tech products adapt to your needs, gives you control and convenience at your fingertips. We are part of “Make in India”  and we take pride in that. Started off as a dream in 2016, now in 3600+ homes - making our users #LiveEffortlessly.",
+            "portfolioDescription": "Wondering what theater dimming, scheduling scenes, centralized and decentralized automation is? We've got you covered. Picostone is the fastest growing Home Automation brand in India with a keen eye for perfection in products and quality of the service offered. We help people live in a comfortable, sustainable and robust tech-enabled house with easy and practical automations. Our cutting edge tech products adapt to your needs, gives you control and convenience at your fingertips. We are part of 'Make in India' and we take pride in that. Started off as a dream in 2016, now in 3600+ homes - making our users #LiveEffortlessly.",
             "navTitleColor": "#050E1F",
             "navSelectedTitleColor": "#050E1F",
             "appLogoColor": "#050E1F",
@@ -140,6 +149,7 @@
                 "assets/images/projects/picostone/picostone2.jpg",
                 "assets/images/projects/picostone/picostone3.jpg"
             ],
+            "isVisible": true,
             "isRecent": false,
             "isPublic": false,
             "isOnAppStore": true,
