@@ -1,6 +1,6 @@
 // Generated file. Do not edit.
 
-const serviceWorkerVersion = '"3980482825" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */';
+const serviceWorkerVersion = '"4123656085"';
 
 const scriptTags = document.getElementsByTagName("script");
 const scriptTag = scriptTags[scriptTags.length - 1];
