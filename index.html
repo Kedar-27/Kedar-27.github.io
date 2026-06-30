@@ -36,6 +36,41 @@
 
   <title>Kedar Sukerkar - iOS Developer Portfolio</title>
   <link rel="manifest" href="manifest.json">
+
+  <!-- Single Page Apps for GitHub Pages - MIT License
+       https://github.com/rafgraph/spa-github-pages
+       Decodes the redirect from 404.html (e.g. /?/home -> /home) so Flutter's
+       router sees the correct route. Must run BEFORE flutter_bootstrap.js. -->
+  <script type="text/javascript">
+    (function (l) {
+      if (l.search[1] === '/') {
+        var decoded = l.search.slice(1).split('&').map(function (s) {
+          return s.replace(/~and~/g, '&');
+        }).join('?');
+        window.history.replaceState(null, null,
+          l.pathname.slice(0, -1) + decoded + l.hash
+        );
+      }
+    }(window.location));
+  </script>
+
+  <style>
+    /* Black background prevents a white flash before Flutter paints its first
+       frame. The in-app LoadingHomePageAnimation (also black) then takes over
+       seamlessly without any competing text or spinner. */
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      background-color: #000000;
+      overflow: hidden;
+    }
+    /* DDC dev mode (flutter run) injects a blue progress bar at the top via
+       main.dart.js. Hide it so we only see the in-app loading animation. */
+    .flutter-loader {
+      display: none !important;
+    }
+  </style>
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
