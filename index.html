@@ -37,6 +37,13 @@
   <title>Kedar Sukerkar - iOS Developer Portfolio</title>
   <link rel="manifest" href="manifest.json">
 
+  <!-- Performance: start downloading the largest first-paint dependencies as
+       soon as the HTML parser sees this — in parallel with the rest of head
+       and the bootstrap script — instead of waiting for flutter.js to request
+       them. Saves ~300-800ms on cold loads (canvaskit.wasm is ~7 MB). -->
+  <link rel="preload" href="main.dart.js" as="script">
+  <link rel="preload" href="canvaskit/canvaskit.wasm" as="fetch" type="application/wasm" crossorigin>
+
   <!-- Single Page Apps for GitHub Pages - MIT License
        https://github.com/rafgraph/spa-github-pages
        Decodes the redirect from 404.html (e.g. /?/home -> /home) so Flutter's
