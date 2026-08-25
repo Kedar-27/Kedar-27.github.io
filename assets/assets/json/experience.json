@@ -1,10 +1,24 @@
 {
     "experience": [
         {
+            "company": "RKSV Securities India Private Limited",
+            "companyUrl": "https://www.upstox.com/",
+            "location": "Mumbai, Maharashtra, India",
+            "duration": "May 2024 - Present",
+            "position": "Senior iOS Developer",
+            "roles": [
+                "Architected and led the incremental UIKit → SwiftUI migration for Order Entry serving 20M+ users, redesigning state management and achieving a 40% UI render performance improvement.",
+                "Engineered a high-throughput Tick-By-Tick (TBT) WebSocket market data pipeline using Swift Concurrency, expanding order-book visibility and cutting order-book latency by 45% during peak volatility.",
+                "Refactored legacy monolithic iOS targets into a Swift Package Manager (SPM) modular architecture, cutting clean build times by 20% for accelerated CI and developer iteration.",
+                "Adopted Figma Code Connect to link design tokens directly to SwiftUI components (accelerating UI delivery by 30%) and introduced AI-assisted engineering workflows (Cursor IDE, Claude Code)."
+            ],
+            "isVisible": true
+        },
+        {
             "company": "Paytm Payments Bank Limited",
             "companyUrl": "https://www.paytmbank.com/",
             "location": "Noida, Uttar Pradesh, India",
-            "duration": "August 2023 - Present",
+            "duration": "August 2023 - May 2024",
             "position": "Senior iOS Developer",
             "roles": [
                 "Engineered and developed Payment application with over 300 million+ users.",
@@ -14,8 +28,8 @@
             "isVisible": true
         },
         {
-            "company": "FnO",
-            "companyUrl": "https://fno.co/",
+            "company": "Marketwolf Securities",
+            "companyUrl": "https://marketwolf.com",
             "location": "Mumbai, Maharashtra, India",
             "duration": "July 2021 - March 2023",
             "position": "Senior iOS Developer",

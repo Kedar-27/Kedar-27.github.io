@@ -49,6 +49,16 @@
       "showInFooter": true,
       "showInHeader": false,
       "showInAbout": true
+    },
+    {
+      "id": "blog",
+      "name": "Blog",
+      "icon": "blog",
+      "url": "https://roundedcorners.vercel.app",
+      "isVisible": false,
+      "showInFooter": true,
+      "showInHeader": false,
+      "showInAbout": false
     }
   ]
 }

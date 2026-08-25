@@ -1,6 +1,55 @@
 {
     "projects": [
         {
+            "title": "Upstox",
+            "primaryColor": "#542087",
+            "subtitle": "Upstox is an all-in-one investing platform for Stocks, Mutual Funds, IPOs, Futures and Options, trusted by millions of Indian investors.",
+            "category": "Finance",
+            "platform": "Android / iOS / Web",
+            "image": "assets/images/projects/upstox/upstox_logo.webp",
+            "coverUrl": "assets/images/projects/upstox/upstox-banner.jpg",
+            "portfolioDescription": "Upstox is an all-in-one investment and trading platform that makes investing in Stocks, Mutual Funds, IPOs, Futures, and Options fast, easy, and secure:\na. Invest in Stocks, Mutual Funds, IPOs, Futures & Options with an intuitive user interface.\nb. Real-time market data streaming, interactive charting tools, and fast order placement.\nc. Secure, reliable financial transactions and portfolio tracking for millions of investors.",
+            "navTitleColor": "#F1F1F1",
+            "navSelectedTitleColor": "#542087",
+            "appLogoColor": "#542087",
+            "projectAssets": [
+                "assets/images/projects/upstox/upstox2.webp",
+                "assets/images/projects/upstox/upstox1.webp"
+                
+            ],
+            "isVisible": true,
+            "isRecent": true,
+            "isPublic": false,
+            "isOnAppStore": true,
+            "technologyUsed": "Swift, SwiftUI, Combine, WebSockets, SPM",
+            "appStoreUrl": "https://apps.apple.com/in/app/upstox-demat-stock-mf-ipo/id1584953620"
+        },
+        {
+            "title": "FOX One",
+            "primaryColor": "#000000",
+            "subtitle": "FOX One is the streaming home for FOX sports, news and entertainment — live and on demand.",
+            "category": "Entertainment",
+            "platform": "iOS / tvOS / Android / Web / Roku",
+            "image": "assets/images/projects/foxone/fox-one-banner.jpg",
+            "coverUrl": "assets/images/projects/foxone/cover.png",
+            "portfolioDescription": "FOX One brings every FOX channel together in a single streaming app, pairing live television with a full on-demand catalogue:\na. Stream FOX Sports, FOX News, FOX Weather, FS1, FS2, FOX Business and local FOX stations live.\nb. Built for iOS and tvOS from a shared design-token system, keeping typography, colour and iconography consistent across every screen size.\nc. Personalised discovery, real-time live-event tracking and a seamless sign-in flow for both TV-provider and direct subscribers.",
+            "navTitleColor": "#F1F1F1",
+            "navSelectedTitleColor": "#F1F1F1",
+            "appLogoColor": "#000000",
+            "projectAssets": [
+                "assets/images/projects/foxone/foxone2.jpg",
+                "assets/images/projects/foxone/foxone1.jpg",
+                "assets/images/projects/foxone/foxone_worldcup.jpeg"
+            ],
+            "isVisible": true,
+            "isRecent": true,
+            "isPublic": false,
+            "isOnAppStore": true,
+            "isOnPlayStore": false,
+            "technologyUsed": "Swift, SwiftUI, Combine, Swift Concurrency, SPM",
+            "appStoreUrl": "https://apps.apple.com/us/app/fox-one-live-news-sports-tv/id6746049430"
+        },
+        {
             "title": "Paytm",
             "primaryColor": "#00B8F5",
             "subtitle": "Paytm, India's #1 Payment App, is trusted by more than 45 Crore Indians. Paytm is one stop solution for all your payment needs.",
